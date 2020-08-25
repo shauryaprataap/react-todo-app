@@ -1,3 +1,6 @@
+You can check out the website live at:-
+  https://react-todo-app-962cf.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
